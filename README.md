@@ -16,7 +16,7 @@ The project leverages modern data analytics tools and methodologies to process, 
 - **Market Intelligence:** Competitive analysis, market trends, and growth opportunities
 
 The SQL queries used to inspect and clean the data for this analysis and 
-Targeted SQL queries regarding various business questions can be found in Scripts Folder in the Repo 
+Targeted SQL queries regarding various business questions can be found [here](scripts)
 
 
 
